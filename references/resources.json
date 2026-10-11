@@ -1,0 +1,856 @@
+{
+  "reviewed_at": "2026-10-11",
+  "format_note": "站点至少部分条目提供的形式；选中条目仍须核验。不表示对应材料已下载、已集成或在当前项目通过测试。",
+  "resources": [
+    {
+      "order": 1,
+      "id": "jiro",
+      "name": "Jiro Build",
+      "url": "https://jiro.build/components",
+      "kinds": [
+        "prompt",
+        "component"
+      ],
+      "formats": [
+        "prompt"
+      ],
+      "summary": "整页模板与营销区块设计提示",
+      "keywords": [
+        "jiro",
+        "网站",
+        "着陆页",
+        "落地页",
+        "landing",
+        "hero",
+        "定价",
+        "pricing",
+        "FAQ",
+        "模板",
+        "提示词",
+        "AI prompt",
+        "营销",
+        "portfolio"
+      ],
+      "access_note": "Free/Premium；完整内容按账户权益；条款禁止自动抓取和独立内容包再分发",
+      "reference": "references/inspiration.md"
+    },
+    {
+      "order": 2,
+      "id": "minimal-gallery",
+      "name": "Minimal Gallery",
+      "url": "https://minimal.gallery/",
+      "kinds": [
+        "inspiration"
+      ],
+      "formats": [
+        "screenshot"
+      ],
+      "summary": "真实网站的整体风格、排版和页面节奏",
+      "keywords": [
+        "minimal",
+        "极简",
+        "高级",
+        "官网",
+        "品牌",
+        "作品集",
+        "排版",
+        "留白",
+        "网站",
+        "灵感",
+        "网页参考",
+        "SaaS",
+        "landing",
+        "portfolio",
+        "typography",
+        "editorial"
+      ],
+      "access_note": "公开图库；模板与原站素材的许可另查",
+      "reference": "references/inspiration.md"
+    },
+    {
+      "order": 3,
+      "id": "kage",
+      "name": "Kage",
+      "url": "https://kage.design/",
+      "kinds": [
+        "inspiration",
+        "prompt"
+      ],
+      "formats": [
+        "screenshot",
+        "prompt"
+      ],
+      "summary": "真实产品界面与可改写的布局分析提示",
+      "keywords": [
+        "kage",
+        "官网",
+        "着陆页",
+        "落地页",
+        "定价",
+        "pricing",
+        "hero",
+        "空状态",
+        "导航",
+        "prompt",
+        "提示词",
+        "灵感",
+        "真实产品",
+        "editorial",
+        "minimal",
+        "dark",
+        "MCP"
+      ],
+      "access_note": "提示和分析可免费商用改写；原品牌与截图另有权利；禁止批量镜像",
+      "reference": "references/inspiration.md"
+    },
+    {
+      "order": 4,
+      "id": "refero-styles",
+      "name": "Refero Styles",
+      "url": "https://styles.refero.design/",
+      "kinds": [
+        "inspiration",
+        "design-system"
+      ],
+      "formats": [
+        "screenshot",
+        "design-md",
+        "tokens",
+        "tailwind",
+        "html-css"
+      ],
+      "summary": "真实网站风格的 DESIGN.md、排版与设计 tokens",
+      "keywords": [
+        "refero",
+        "风格",
+        "设计系统",
+        "规范",
+        "design system",
+        "DESIGN.md",
+        "designmd",
+        "tokens",
+        "配色",
+        "字体",
+        "排版",
+        "间距",
+        "typography",
+        "theme",
+        "主题",
+        "Linear",
+        "Vercel"
+      ],
+      "access_note": "公开风格页可读；导出是分析结果；统一复用许可未核实",
+      "reference": "references/inspiration.md"
+    },
+    {
+      "order": 5,
+      "id": "component-gallery",
+      "name": "The Component Gallery",
+      "url": "https://component.gallery/components/",
+      "kinds": [
+        "inspiration",
+        "design-system"
+      ],
+      "formats": [
+        "screenshot"
+      ],
+      "summary": "同类组件在不同设计系统中的定义与示例",
+      "keywords": [
+        "component gallery",
+        "组件参考",
+        "组件规范",
+        "设计系统",
+        "表单",
+        "form",
+        "表格",
+        "table",
+        "对话框",
+        "dialog",
+        "导航",
+        "树",
+        "分页",
+        "tabs",
+        "accessibility",
+        "无障碍"
+      ],
+      "access_note": "公开目录；代码与 Figma 许可依原设计系统",
+      "reference": "references/inspiration.md"
+    },
+    {
+      "order": 6,
+      "id": "appshot",
+      "name": "AppShot Gallery",
+      "url": "https://www.appshot.gallery/",
+      "kinds": [
+        "inspiration"
+      ],
+      "formats": [
+        "screenshot",
+        "image"
+      ],
+      "summary": "App Store 截图与 ASO 视觉参考",
+      "keywords": [
+        "appshot",
+        "移动",
+        "手机",
+        "App",
+        "原生",
+        "iOS",
+        "SwiftUI",
+        "Flutter",
+        "React Native",
+        "ASO",
+        "商店",
+        "截图",
+        "健康",
+        "onboarding",
+        "引导",
+        "mobile"
+      ],
+      "access_note": "公开展示图库；应用标价不代表图库收费；截图复用许可未核实",
+      "reference": "references/inspiration.md"
+    },
+    {
+      "order": 7,
+      "id": "designmd",
+      "name": "DESIGNmd",
+      "url": "https://designmd.ai/",
+      "kinds": [
+        "design-system"
+      ],
+      "formats": [
+        "design-md",
+        "tokens"
+      ],
+      "summary": "社区 Markdown 设计系统与可搜索的视觉规则",
+      "keywords": [
+        "designmd",
+        "DESIGN.md",
+        "设计系统",
+        "规范",
+        "配色",
+        "字体",
+        "间距",
+        "tokens",
+        "design system",
+        "主题",
+        "theme",
+        "dashboard",
+        "后台",
+        "minimal",
+        "mobile",
+        "MCP"
+      ],
+      "access_note": "网页可浏览；API 内容/下载需 key；每份设计系统单独许可",
+      "reference": "references/inspiration.md"
+    },
+    {
+      "order": 8,
+      "id": "vibeprompt",
+      "name": "VibePrompt",
+      "url": "https://vibeprompts.dev/",
+      "kinds": [
+        "prompt",
+        "component"
+      ],
+      "formats": [
+        "prompt",
+        "tailwind",
+        "html-css"
+      ],
+      "summary": "布局提示与 Tailwind HTML 区块",
+      "keywords": [
+        "vibeprompt",
+        "vibeprompts",
+        "提示词",
+        "prompt",
+        "后台",
+        "dashboard",
+        "仪表板",
+        "着陆页",
+        "落地页",
+        "hero",
+        "定价",
+        "pricing",
+        "表单",
+        "form",
+        "注册",
+        "登录",
+        "引导",
+        "onboarding",
+        "sidebar",
+        "侧栏",
+        "bento"
+      ],
+      "access_note": "示例提示和 HTML 公开可读；统一标准许可未核实",
+      "reference": "references/inspiration.md"
+    },
+    {
+      "order": 9,
+      "id": "21st",
+      "name": "21st.dev",
+      "url": "https://21st.dev/",
+      "kinds": [
+        "component",
+        "prompt",
+        "design-system"
+      ],
+      "formats": [
+        "react",
+        "tailwind",
+        "prompt",
+        "tokens"
+      ],
+      "summary": "社区 React 组件、营销区块、模板和 shadcn 主题",
+      "keywords": [
+        "21st",
+        "注册表",
+        "registry",
+        "MCP",
+        "成品组件",
+        "React",
+        "Tailwind",
+        "shadcn",
+        "hero",
+        "pricing",
+        "定价",
+        "AI chat",
+        "聊天",
+        "导航",
+        "模板",
+        "dashboard"
+      ],
+      "access_note": "公开浏览与复制/MCP 权益不同；按条目源许可处理，演示媒体另查",
+      "reference": "references/components.md"
+    },
+    {
+      "order": 10,
+      "id": "kinetics",
+      "name": "Kinetics",
+      "url": "https://kinetics.colorion.co/",
+      "kinds": [
+        "motion",
+        "prompt"
+      ],
+      "formats": [
+        "react",
+        "html-css",
+        "prompt"
+      ],
+      "summary": "可调参数的 CSS/React 局部动效与提示",
+      "keywords": [
+        "kinetics",
+        "动效",
+        "motion",
+        "animation",
+        "动画",
+        "弹簧",
+        "spring",
+        "弹性",
+        "展开",
+        "反馈",
+        "CSS",
+        "React",
+        "hover",
+        "loader",
+        "加载",
+        "text",
+        "文字"
+      ],
+      "access_note": "公开代码；官网说明 MIT；CSS 近似效果与物理积分实现有区别",
+      "reference": "references/components.md"
+    },
+    {
+      "order": 11,
+      "id": "shadcn",
+      "name": "shadcn/ui",
+      "url": "https://ui.shadcn.com/docs/components",
+      "kinds": [
+        "component",
+        "design-system"
+      ],
+      "formats": [
+        "react",
+        "tailwind",
+        "tokens"
+      ],
+      "summary": "基础控件、后台 Blocks 和可维护组件源码",
+      "keywords": [
+        "shadcn",
+        "基础组件",
+        "组件库",
+        "表单",
+        "form",
+        "对话框",
+        "dialog",
+        "表格",
+        "table",
+        "后台",
+        "dashboard",
+        "导航",
+        "菜单",
+        "按钮",
+        "button",
+        "React",
+        "Tailwind",
+        "accessibility",
+        "无障碍"
+      ],
+      "access_note": "开源代码 MIT；按项目当前 primitive 和主题选择",
+      "reference": "references/components.md"
+    },
+    {
+      "order": 12,
+      "id": "aceternity",
+      "name": "Aceternity UI",
+      "url": "https://ui.aceternity.com/components",
+      "kinds": [
+        "component",
+        "motion"
+      ],
+      "formats": [
+        "react",
+        "tailwind"
+      ],
+      "summary": "营销页的动态 Hero、背景和成品区块",
+      "keywords": [
+        "aceternity",
+        "着陆页",
+        "落地页",
+        "营销",
+        "hero",
+        "背景",
+        "卡片",
+        "bento",
+        "滚动",
+        "scroll",
+        "动效",
+        "动画",
+        "animation",
+        "React",
+        "Tailwind",
+        "视觉"
+      ],
+      "access_note": "免费组件与 Pro 分开；适用 Aceternity Licence/条目第三方许可",
+      "reference": "references/components.md"
+    },
+    {
+      "order": 13,
+      "id": "magic-ui",
+      "name": "Magic UI",
+      "url": "https://magicui.design/docs/components",
+      "kinds": [
+        "component",
+        "motion"
+      ],
+      "formats": [
+        "react",
+        "tailwind"
+      ],
+      "summary": "与 shadcn 配合的动画组件和视觉效果",
+      "keywords": [
+        "magicui",
+        "magic UI",
+        "React",
+        "Tailwind",
+        "shadcn",
+        "动效",
+        "动画",
+        "animation",
+        "背景",
+        "文字",
+        "数字",
+        "边框",
+        "营销",
+        "landing"
+      ],
+      "access_note": "开源代码 MIT；Pro 模板与第三方图像另查",
+      "reference": "references/components.md"
+    },
+    {
+      "order": 14,
+      "id": "motion-primitives",
+      "name": "Motion Primitives",
+      "url": "https://motion-primitives.com/docs",
+      "kinds": [
+        "component",
+        "motion"
+      ],
+      "formats": [
+        "react",
+        "tailwind"
+      ],
+      "summary": "产品界面的文本、数字和状态过渡组件",
+      "keywords": [
+        "motion primitives",
+        "motion-primitives",
+        "motion",
+        "React",
+        "Tailwind",
+        "交互",
+        "转场",
+        "过渡",
+        "transition",
+        "文本",
+        "文字",
+        "text",
+        "数字",
+        "number",
+        "展开",
+        "面板",
+        "工具栏"
+      ],
+      "access_note": "开源代码 MIT；需要 Motion 等具体条目依赖；Advanced/Pro 另查",
+      "reference": "references/components.md"
+    },
+    {
+      "order": 15,
+      "id": "uiverse",
+      "name": "Uiverse",
+      "url": "https://uiverse.io/",
+      "kinds": [
+        "component",
+        "motion"
+      ],
+      "formats": [
+        "html-css",
+        "tailwind"
+      ],
+      "summary": "社区 HTML/CSS 与 Tailwind 控件片段",
+      "keywords": [
+        "uiverse",
+        "CSS",
+        "HTML",
+        "原生网页",
+        "按钮",
+        "button",
+        "输入框",
+        "input",
+        "卡片",
+        "card",
+        "开关",
+        "toggle",
+        "loader",
+        "加载",
+        "hover",
+        "渐变",
+        "gradient",
+        "控件"
+      ],
+      "access_note": "UI 元素 MIT；片段的语义、键盘和移动布局需检查",
+      "reference": "references/components.md"
+    },
+    {
+      "order": 16,
+      "id": "uiable",
+      "name": "UIAble",
+      "url": "https://uiable.com/",
+      "kinds": [
+        "component",
+        "design-system"
+      ],
+      "formats": [
+        "react",
+        "tailwind",
+        "tokens"
+      ],
+      "summary": "shadcn/Base UI 成品组件、布局和后台模板",
+      "keywords": [
+        "uiable",
+        "React",
+        "Tailwind",
+        "shadcn",
+        "Base UI",
+        "后台",
+        "dashboard",
+        "模板",
+        "成品组件",
+        "表单",
+        "form",
+        "表格",
+        "table",
+        "bento",
+        "SaaS"
+      ],
+      "access_note": "Community MIT；Pro Standard 不覆盖付费 SaaS，Enterprise 覆盖相应用途",
+      "reference": "references/components.md"
+    },
+    {
+      "order": 17,
+      "id": "mapcn",
+      "name": "mapcn",
+      "url": "https://www.mapcn.dev/docs",
+      "kinds": [
+        "component"
+      ],
+      "formats": [
+        "react",
+        "tailwind"
+      ],
+      "summary": "React/MapLibre 地图、标记、路线和弹窗",
+      "keywords": [
+        "mapcn",
+        "地图",
+        "map",
+        "MapLibre",
+        "标记",
+        "marker",
+        "路线",
+        "route",
+        "弹窗",
+        "popup",
+        "物流",
+        "门店",
+        "geojson",
+        "聚类",
+        "cluster",
+        "React"
+      ],
+      "access_note": "代码 MIT；默认 CARTO 底图商用有独立授权要求；不是算路服务",
+      "reference": "references/components.md"
+    },
+    {
+      "order": 18,
+      "id": "microkit",
+      "name": "MicroKit UI",
+      "url": "https://microkit.co/",
+      "kinds": [
+        "component",
+        "motion"
+      ],
+      "formats": [
+        "react",
+        "html-css",
+        "tailwind"
+      ],
+      "summary": "按钮反馈、导航切换和输入框 focus 微交互",
+      "keywords": [
+        "microkit",
+        "微交互",
+        "microinteraction",
+        "交互",
+        "反馈",
+        "按钮",
+        "button",
+        "导航",
+        "tabs",
+        "输入框",
+        "focus",
+        "hover",
+        "React",
+        "CSS"
+      ],
+      "access_note": "代码 MIT；CSS 动效可能使用 React 外壳；按条目确认 Lucide 等依赖",
+      "reference": "references/components.md"
+    },
+    {
+      "order": 19,
+      "id": "liquid-glass",
+      "name": "Liquid Glass",
+      "url": "https://glass.samasante.com/?view=docs",
+      "kinds": [
+        "component",
+        "motion"
+      ],
+      "formats": [
+        "react"
+      ],
+      "summary": "具有像素折射的 React Glass 组件",
+      "keywords": [
+        "liquid glass",
+        "liquid-glass",
+        "玻璃",
+        "液态玻璃",
+        "折射",
+        "glass",
+        "refraction",
+        "透镜",
+        "frosted",
+        "React",
+        "WebGL"
+      ],
+      "access_note": "React 18+；文档标注示例 MIT，包版本许可另核验；非原生移动组件",
+      "reference": "references/components.md"
+    },
+    {
+      "order": 20,
+      "id": "css-text-effects",
+      "name": "CSS Text Effects",
+      "url": "https://text-effects.colorion.co/",
+      "kinds": [
+        "motion",
+        "prompt"
+      ],
+      "formats": [
+        "html-css",
+        "prompt"
+      ],
+      "summary": "无 JS 的 CSS 文字效果和对应提示",
+      "keywords": [
+        "CSS Text Effects",
+        "CSS",
+        "文本",
+        "文字",
+        "text",
+        "标题",
+        "headline",
+        "打字",
+        "typewriter",
+        "渐变",
+        "gradient",
+        "发光",
+        "glow",
+        "故障",
+        "glitch",
+        "动效"
+      ],
+      "access_note": "官网明确 MIT；无 JS，需检查中文、换行与减少动画",
+      "reference": "references/visuals.md"
+    },
+    {
+      "order": 21,
+      "id": "circle-loaders",
+      "name": "Circle Loaders",
+      "url": "https://circleloaders.dominikakissi.com/",
+      "kinds": [
+        "motion"
+      ],
+      "formats": [
+        "svg"
+      ],
+      "summary": "独立 SVG 的单色圆形加载与 agent 状态动画",
+      "keywords": [
+        "circle loaders",
+        "圆形",
+        "loader",
+        "loading",
+        "加载",
+        "等待",
+        "SVG",
+        "agent",
+        "状态动画",
+        "无依赖"
+      ],
+      "access_note": "公开完整 SVG；标准许可未核实；不是实际进度逻辑",
+      "reference": "references/visuals.md"
+    },
+    {
+      "order": 22,
+      "id": "gradient-buttons",
+      "name": "Gradient Buttons",
+      "url": "https://gradientbuttons.colorion.co/",
+      "kinds": [
+        "component"
+      ],
+      "formats": [
+        "html-css"
+      ],
+      "summary": "渐变按钮配色与 CSS 外观片段",
+      "keywords": [
+        "gradient buttons",
+        "渐变",
+        "gradient",
+        "按钮",
+        "button",
+        "CTA",
+        "CSS",
+        "配色"
+      ],
+      "access_note": "公开复制入口；统一标准许可未核实；组件状态由项目提供",
+      "reference": "references/visuals.md"
+    },
+    {
+      "order": 23,
+      "id": "kitbitz",
+      "name": "Kitbitz",
+      "url": "https://kitbitz.art/",
+      "kinds": [
+        "asset"
+      ],
+      "formats": [
+        "svg",
+        "image"
+      ],
+      "summary": "手绘 SVG/PNG 插图、Figma kits 与公开 MCP",
+      "keywords": [
+        "kitbitz",
+        "手绘",
+        "插图",
+        "illustration",
+        "SVG",
+        "PNG",
+        "素材",
+        "空状态",
+        "empty state",
+        "引导",
+        "onboarding",
+        "Figma",
+        "MCP",
+        "温暖"
+      ],
+      "access_note": "原始插图 CC0；网页无需账户；平台/插件/MCP 源码为专有软件",
+      "reference": "references/visuals.md"
+    },
+    {
+      "order": 24,
+      "id": "3dicons",
+      "name": "3dicons",
+      "url": "https://3dicons.co/",
+      "kinds": [
+        "asset"
+      ],
+      "formats": [
+        "image"
+      ],
+      "summary": "成套 3D 图标渲染与视觉素材",
+      "keywords": [
+        "3dicons",
+        "3D",
+        "三维",
+        "图标",
+        "icon",
+        "素材",
+        "空状态",
+        "empty state",
+        "功能说明",
+        "Figma"
+      ],
+      "access_note": "官网 FAQ 当前图标库 CC0；Premium 集合许可另查；渲染不等于 3D 模型",
+      "reference": "references/visuals.md"
+    },
+    {
+      "order": 25,
+      "id": "animejs",
+      "name": "Anime.js",
+      "url": "https://animejs.com/",
+      "kinds": [
+        "motion"
+      ],
+      "formats": [
+        "javascript"
+      ],
+      "summary": "自定义 JS 时间线、SVG 动画和滚动编排",
+      "keywords": [
+        "anime.js",
+        "animejs",
+        "动画引擎",
+        "JavaScript",
+        "时间线",
+        "timeline",
+        "SVG",
+        "路径",
+        "path",
+        "描边",
+        "形变",
+        "morph",
+        "stagger",
+        "错峰",
+        "scroll",
+        "滚动",
+        "拖拽"
+      ],
+      "access_note": "开源代码 MIT；当前主版本 API 与旧教程不同，按锁定版本查文档",
+      "reference": "references/components.md"
+    }
+  ]
+}
